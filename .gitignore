@@ -43,6 +43,8 @@
 node_modules
 
 # Doxygen
-!doxygen-awesome-css
-!Doxyfile
+doxygen-awesome-css
+!Doxyfile*
 html
+!deploy_test_github.sh
+!*.tag
