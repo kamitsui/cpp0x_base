@@ -1,28 +1,25 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   Example.cpp                                        :+:      :+:    :+:   */
+/*   useExampleClass.cpp                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: kamitsui <kamitsui@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/04/26 16:32:47 by kamitsui          #+#    #+#             */
-/*   Updated: 2025/04/26 16:32:55 by kamitsui         ###   ########.fr       */
+/*   Created: 2025/04/26 16:45:00 by kamitsui          #+#    #+#             */
+/*   Updated: 2025/05/01 23:51:32 by kamitsui         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
- * @file ex00/Example.cpp
- * @brief Example クラスの実装
+ * @file ex0X/useExampleClass.cpp
+ * @brief Example クラスを使用する関数を定義
  */
 #include "Example.hpp"
 #include <iostream>
+#include <string>
 
-Example::Example() : message("Hello, Example!") {}
-
-Example::Example(const std::string &msg) : message(msg) {}
-
-void Example::setMessage(const std::string &new_msg) { message = new_msg; }
-
-std::string Example::getMessage() const { return message; }
-
-void Example::printMessage() const { std::cout << message << std::endl; }
+void useExampleClass(Example &exampleObj, const std::string &newMessage) {
+    exampleObj.setMessage(newMessage);
+    std::cout << "useExampleClass: ";
+    exampleObj.printMessage();
+}

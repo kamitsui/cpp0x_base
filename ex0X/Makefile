@@ -6,11 +6,11 @@
 #    By: kamitsui <kamitsui@student.42tokyo.jp>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/03/15 19:38:29 by kamitsui          #+#    #+#              #
-#    Updated: 2025/04/26 16:52:05 by kamitsui         ###   ########.fr        #
+#    Updated: 2025/05/01 23:52:31 by kamitsui         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-# @file ex00/Makefile
+# @file ex0X/Makefile
 # @brief This File is a Makefile for building harl in ex05 directory.
 
 # Directories

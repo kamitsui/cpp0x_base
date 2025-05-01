@@ -6,12 +6,12 @@
 /*   By: kamitsui <kamitsui@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/26 16:33:16 by kamitsui          #+#    #+#             */
-/*   Updated: 2025/04/26 16:47:03 by kamitsui         ###   ########.fr       */
+/*   Updated: 2025/05/01 23:51:21 by kamitsui         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
- * @file ex00/main.cpp
+ * @file ex0X/main.cpp
  * @brief Example クラスの使用例と main 関数
  */
 #include "Example.hpp"
@@ -27,6 +27,7 @@
  * @param argv コマンドライン引数の配列
  * @return 0 (正常終了)
  */
+/*!< [main] */
 int main(int argc, char **argv) {
     Example defaultExample;
     std::cout << "main (default): ";
@@ -43,3 +44,4 @@ int main(int argc, char **argv) {
     (void)argv;
     return 0;
 }
+/*!< [main] */

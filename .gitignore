@@ -47,4 +47,5 @@ doxygen-awesome-css
 !Doxyfile*
 html
 !deploy_test_github.sh
-!*.tag
+!cppreference-doxygen-web.tag.xml
+!docs/result_ex*.log

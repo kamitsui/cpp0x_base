@@ -6,12 +6,12 @@
 /*   By: kamitsui <kamitsui@student.42tokyo.jp>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/04/26 16:31:51 by kamitsui          #+#    #+#             */
-/*   Updated: 2025/04/26 16:50:31 by kamitsui         ###   ########.fr       */
+/*   Updated: 2025/05/01 23:52:23 by kamitsui         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
- * @file ex00/Example.hpp
+ * @file ex0X/Example.hpp
  * @brief Example クラスの定義
  *
  * このクラスは、簡単な機能を提供します。

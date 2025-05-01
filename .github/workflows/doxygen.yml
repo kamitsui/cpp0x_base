@@ -20,6 +20,7 @@ jobs:
 
       - name: Clone doxygen-awesome-css
         run: |
+          cd docs
           git clone https://github.com/jothepro/doxygen-awesome-css.git
 
       - name: Install Doxygen
@@ -35,6 +36,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: html
+          folder: docs/html
           token: ${{ secrets.GITHUB_TOKEN }}
           clean: true

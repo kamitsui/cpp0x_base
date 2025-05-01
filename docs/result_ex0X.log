@@ -1,0 +1,4 @@
+main (default): Hello, Example!
+main (custom): Greetings from main!
+useExampleClass: Message changed in main!
+useExampleClass: Another message!
