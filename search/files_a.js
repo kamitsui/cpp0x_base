@@ -1,30 +1,5 @@
 var searchData=
 [
-  ['macros_2eh_0',['macros.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00929.html',1,'']]],
-  ['main_2ecpp_1',['main.cpp',['../main_8cpp.html',1,'']]],
-  ['makefile_2',['Makefile',['../Makefile.html',1,'']]],
-  ['malloc_5fallocator_2eh_3',['malloc_allocator.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01202.html',1,'']]],
-  ['map_4',['map',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00137.html',1,'']]],
-  ['map_2eh_5',['map.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00932.html',1,'']]],
-  ['mask_5farray_2eh_6',['mask_array.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00611.html',1,'']]],
-  ['mask_5fbased_5frange_5fhashing_2ehpp_7',['mask_based_range_hashing.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01451.html',1,'']]],
-  ['math_2eh_8',['math.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00011.html',1,'']]],
-  ['max_5fsize_5ftype_2eh_9',['max_size_type.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00380.html',1,'']]],
-  ['memory_10',['memory',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00140.html',1,'']]],
-  ['memory_5fresource_11',['memory_resource',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00143.html',1,'']]],
-  ['memory_5fresource_2eh_12',['memory_resource.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00614.html',1,'']]],
-  ['memoryfwd_2eh_13',['memoryfwd.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00383.html',1,'']]],
-  ['merge_2eh_14',['merge.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01034.html',1,'']]],
-  ['messages_5fmembers_2eh_15',['messages_members.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00869.html',1,'']]],
-  ['mod_5fbased_5frange_5fhashing_2ehpp_16',['mod_based_range_hashing.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01454.html',1,'']]],
-  ['mofunc_5fimpl_2eh_17',['mofunc_impl.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00617.html',1,'']]],
-  ['move_2eh_18',['move.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00386.html',1,'']]],
-  ['move_5fonly_5ffunction_2eh_19',['move_only_function.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00620.html',1,'']]],
-  ['mt_5fallocator_2eh_20',['mt_allocator.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01205.html',1,'']]],
-  ['multimap_2eh_21',['multimap.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00935.html',1,'']]],
-  ['multiseq_5fselection_2eh_22',['multiseq_selection.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01037.html',1,'']]],
-  ['multiset_2eh_23',['multiset.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00938.html',1,'']]],
-  ['multiway_5fmerge_2eh_24',['multiway_merge.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01040.html',1,'']]],
-  ['multiway_5fmergesort_2eh_25',['multiway_mergesort.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01043.html',1,'']]],
-  ['mutex_26',['mutex',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00146.html',1,'']]]
+  ['optional_0',['optional',['https://en.cppreference.com/w/cpp/header/optional.html',1,'']]],
+  ['ostream_1',['ostream',['https://en.cppreference.com/w/cpp/header/ostream.html',1,'']]]
 ];

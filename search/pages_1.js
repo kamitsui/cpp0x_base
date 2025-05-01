@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['base_0',['C++ Module 0X Base',['../index.html',1,'']]]
+  ['c_20module_200x_0',['C++ Module 0X',['../index.html',1,'']]]
 ];

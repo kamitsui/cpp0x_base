@@ -1,4 +1,5 @@
 var files_dup =
 [
-    [ "ex00", "dir_1fd6efd30650519a9dc99608cb0d0851.html", "dir_1fd6efd30650519a9dc99608cb0d0851" ]
+    [ "docs", "dir_49e56c817e5e54854c35e136979f97ca.html", "dir_49e56c817e5e54854c35e136979f97ca" ],
+    [ "ex0X", "dir_b9ed6aa8933ed107d2b62703d9556b0f.html", "dir_b9ed6aa8933ed107d2b62703d9556b0f" ]
 ];

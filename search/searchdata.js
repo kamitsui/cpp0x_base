@@ -1,17 +1,12 @@
 var indexSectionsWithContent =
 {
-  0: "0_abcdefghijklmnopqrstuvwxy~",
-  1: "_abcdefghijlmnopqrstuvw",
-  2: "_as",
-  3: "abcdefghilmnopqrstuvwx",
-  4: "_abcdefghiklmnopqrstuvwxy~",
-  5: "_abcdefghilmnopqrstuw",
-  6: "_acdefhiklmnoprstuvwy",
-  7: "_cdefilmnps",
-  8: "abcdfgmnoprstu",
-  9: "chosu",
-  10: "abcdefghilmnoprstuvw",
-  11: "0bcm"
+  0: "0:_abcdefghijklmnopqrstuvwxyz~キ内動課",
+  1: "abcdefghijklmnopqrstuvwyz",
+  2: "s",
+  3: "abcdefilmnoqrstuv",
+  4: "_abcdefghijklmnopqrstuvwxyz~",
+  5: "acdefhilmnqrstuv",
+  6: "0cm"
 };
 
 var indexSectionNames =
@@ -22,12 +17,7 @@ var indexSectionNames =
   3: "files",
   4: "functions",
   5: "variables",
-  6: "typedefs",
-  7: "enums",
-  8: "enumvalues",
-  9: "related",
-  10: "groups",
-  11: "pages"
+  6: "pages"
 };
 
 var indexSectionLabels =
@@ -38,11 +28,6 @@ var indexSectionLabels =
   3: "ファイル",
   4: "関数",
   5: "変数",
-  6: "型定義",
-  7: "列挙型",
-  8: "列挙値",
-  9: "フレンド",
-  10: "グループ",
-  11: "ページ"
+  6: "ページ"
 };
 

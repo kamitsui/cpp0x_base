@@ -1,23 +1,8 @@
 var searchData=
 [
-  ['omp_5floop_2eh_0',['omp_loop.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01049.html',1,'']]],
-  ['omp_5floop_5fstatic_2eh_1',['omp_loop_static.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01052.html',1,'']]],
-  ['opt_5frandom_2eh_2',['opt_random.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00848.html',1,'']]],
-  ['optional_3',['optional',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00155.html',1,'']]],
-  ['os_5fdefines_2eh_4',['os_defines.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00824.html',1,'']]],
-  ['ostream_5',['ostream',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00158.html',1,'']]],
-  ['ostream_2etcc_6',['ostream.tcc',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00629.html',1,'']]],
-  ['ostream_5finsert_2eh_7',['ostream_insert.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00632.html',1,'']]],
-  ['out_5fptr_2eh_8',['out_ptr.h',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a00389.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2ehpp_9',['ov_tree_map_.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01499.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2fconstructors_5fdestructor_5ffn_5fimps_2ehpp_10',['ov_tree_map_/constructors_destructor_fn_imps.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18086.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2fdebug_5ffn_5fimps_2ehpp_11',['ov_tree_map_/debug_fn_imps.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18131.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2ferase_5ffn_5fimps_2ehpp_12',['ov_tree_map_/erase_fn_imps.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18173.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2finfo_5ffn_5fimps_2ehpp_13',['ov_tree_map_/info_fn_imps.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18245.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2finsert_5ffn_5fimps_2ehpp_14',['ov_tree_map_/insert_fn_imps.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18278.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2fiterators_5ffn_5fimps_2ehpp_15',['ov_tree_map_/iterators_fn_imps.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18311.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2fnode_5fiterators_2ehpp_16',['ov_tree_map_/node_iterators.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18029.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2fpolicy_5faccess_5ffn_5fimps_2ehpp_17',['ov_tree_map_/policy_access_fn_imps.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18341.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2fsplit_5fjoin_5ffn_5fimps_2ehpp_18',['ov_tree_map_/split_join_fn_imps.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18356.html',1,'']]],
-  ['ov_5ftree_5fmap_5f_2ftraits_2ehpp_19',['ov_tree_map_/traits.hpp',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a18050.html',1,'']]]
+  ['random_0',['random',['https://en.cppreference.com/w/cpp/header/random.html',1,'']]],
+  ['ranges_1',['ranges',['https://en.cppreference.com/w/cpp/header/ranges.html',1,'']]],
+  ['ratio_2',['ratio',['https://en.cppreference.com/w/cpp/header/ratio.html',1,'']]],
+  ['regex_3',['regex',['https://en.cppreference.com/w/cpp/header/regex.html',1,'']]],
+  ['result_5fex0x_2elog_4',['result_ex0X.log',['../d5/d00/result__ex0X_8log.html',1,'']]]
 ];

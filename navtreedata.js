@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "CPP0X_Base", "index.html", [
-    [ "C++ Module 0X Base", "index.html", "index" ],
+    [ "C++ Module 0X", "index.html", "index" ],
     [ "クラス", "annotated.html", [
       [ "クラス一覧", "annotated.html", "annotated_dup" ],
       [ "クラス索引", "classes.html", null ],
@@ -46,7 +46,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"Example_8cpp.html"
+"annotated.html"
 ];
 
 var SYNCONMSG = 'クリックで同期表示が無効になります';

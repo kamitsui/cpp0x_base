@@ -1,4 +1,4 @@
 var annotated_dup =
 [
-    [ "Example", "classExample.html", "classExample" ]
+    [ "Example", "d2/d31/classExample.html", "d2/d31/classExample" ]
 ];

@@ -1,19 +1,15 @@
 var searchData=
 [
-  ['_5f_5fcxxabiv1_0',['__cxxabiv1',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a04714.html',1,'']]],
-  ['_5f_5fgnu_5fcxx_1',['__gnu_cxx',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01699.html',1,'']]],
-  ['_5f_5fgnu_5fcxx_3a_3a_5f_5fdetail_2',['__detail',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01700.html',1,'__gnu_cxx']]],
-  ['_5f_5fgnu_5fcxx_3a_3alimit_5fcondition_3',['limit_condition',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a11178.html',1,'__gnu_cxx']]],
-  ['_5f_5fgnu_5fcxx_3a_3arandom_5fcondition_4',['random_condition',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a11202.html',1,'__gnu_cxx']]],
-  ['_5f_5fgnu_5fcxx_3a_3atypelist_5',['typelist',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01755.html',1,'__gnu_cxx']]],
-  ['_5f_5fgnu_5fdebug_6',['__gnu_debug',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01718.html',1,'']]],
-  ['_5f_5fgnu_5finternal_7',['__gnu_internal',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01701.html',1,'']]],
-  ['_5f_5fgnu_5fparallel_8',['__gnu_parallel',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01736.html',1,'']]],
-  ['_5f_5fgnu_5fparallel_3a_3a_5flosertreebase_9',['_LoserTreeBase',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a08814.html',1,'__gnu_parallel']]],
-  ['_5f_5fgnu_5fparallel_3a_3a_5flosertreepointerbase_10',['_LoserTreePointerBase',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a08830.html',1,'__gnu_parallel']]],
-  ['_5f_5fgnu_5fpbds_11',['__gnu_pbds',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01757.html',1,'']]],
-  ['_5f_5fgnu_5fpbds_3a_3adetail_12',['detail',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a12366.html',1,'__gnu_pbds']]],
-  ['_5f_5fgnu_5fpbds_3a_3adetail_3a_3aov_5ftree_5fmap_13',['ov_tree_map',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a12302.html',1,'__gnu_pbds::detail']]],
-  ['_5f_5fgnu_5fpbds_3a_3adetail_3a_3apat_5ftrie_5fbase_14',['pat_trie_base',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a12366.html',1,'__gnu_pbds::detail']]],
-  ['_5f_5fgnu_5fsequential_15',['__gnu_sequential',['http://gcc.gnu.org/onlinedocs/libstdc++/latest-doxygen/a01737.html',1,'']]]
+  ['std_0',['std',['https://en.cppreference.com/w/d8/dcc/namespacestd.html',1,'']]],
+  ['std_3a_3achrono_1',['chrono',['https://en.cppreference.com/w/d4/d0c/namespacestd_1_1chrono.html',1,'std']]],
+  ['std_3a_3aexecution_2',['execution',['https://en.cppreference.com/w/d0/d9b/namespacestd_1_1execution.html',1,'std']]],
+  ['std_3a_3aexperimental_3',['experimental',['https://en.cppreference.com/w/de/d97/namespacestd_1_1experimental.html',1,'std']]],
+  ['std_3a_3aexperimental_3a_3afilesystem_4',['filesystem',['https://en.cppreference.com/w/da/d5f/namespacestd_1_1experimental_1_1filesystem.html',1,'std::experimental']]],
+  ['std_3a_3aexperimental_3a_3apmr_5',['pmr',['https://en.cppreference.com/w/d6/d07/namespacestd_1_1experimental_1_1pmr.html',1,'std::experimental']]],
+  ['std_3a_3afilesystem_6',['filesystem',['https://en.cppreference.com/w/d9/df9/namespacestd_1_1filesystem.html',1,'std']]],
+  ['std_3a_3apmr_7',['pmr',['https://en.cppreference.com/w/d4/d26/namespacestd_1_1pmr.html',1,'std']]],
+  ['std_3a_3aranges_8',['ranges',['https://en.cppreference.com/w/d9/d37/namespacestd_1_1ranges.html',1,'std']]],
+  ['std_3a_3aregex_5fconstants_9',['regex_constants',['https://en.cppreference.com/w/db/da4/namespacestd_1_1regex__constants.html',1,'std']]],
+  ['std_3a_3arel_5fops_10',['rel_ops',['https://en.cppreference.com/w/da/d42/namespacestd_1_1rel__ops.html',1,'std']]],
+  ['std_3a_3athis_5fthread_11',['this_thread',['https://en.cppreference.com/w/d7/dbf/namespacestd_1_1this__thread.html',1,'std']]]
 ];
