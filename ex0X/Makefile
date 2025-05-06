@@ -6,12 +6,12 @@
 #    By: kamitsui <kamitsui@student.42tokyo.jp>     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/03/15 19:38:29 by kamitsui          #+#    #+#              #
-#    Updated: 2025/05/01 23:52:31 by kamitsui         ###   ########.fr        #
+#    Updated: 2025/05/06 23:13:52 by kamitsui         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 # @file ex0X/Makefile
-# @brief This File is a Makefile for building harl in ex05 directory.
+# @brief This File is a Makefile for building example in ex0X directory.
 
 # Directories
 OBJ_DIR = objs
